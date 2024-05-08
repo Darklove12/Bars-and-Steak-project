@@ -11,12 +11,12 @@ const AboutUs = () => {
 
              <div>
                  <h1 className='absolute font-bold text-5xl ml-[61rem] mt-[8rem]'>About Us</h1>
-                 {/* <p className='absolute text-1xl text-center ml-[47rem] mt-60'>
+                 <p className='absolute text-1xl text-center ml-[47rem] mt-60'>
                  As a steak cooks longer, it becomes hotter, which causes the liquids to
                          cook out <br /> and the muscle fibers to harden up. The outcome is a well-done steak
                          with a uniform gray <br /> inside that is chewy, dry, gritty, and flavorless.
                  </p>
-                 <h1 className='ml-[57.5rem] absolute mt-[33rem] font-bold'>
+                 {/* <h1 className='ml-[57.5rem] absolute mt-[33rem] font-bold'>
                  Serving best steaks and BBQs since 2023
                 </h1>
                  <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
