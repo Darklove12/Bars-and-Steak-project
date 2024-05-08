@@ -49,7 +49,7 @@ const AboutUs = () => {
                          alt="" />
                          <h6 className="name1">Name</h6>
                              <i className="bi bi-whatsapp">WhatsApp</i><br />
-                             {/* <i className="bi bi-envelope-at-fill">E-mail</i> */}
+                             <i className="bi bi-envelope-at-fill">E-mail</i>
                      </li>
 
                    {/* <li className='name'>
