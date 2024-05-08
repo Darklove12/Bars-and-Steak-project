@@ -3,7 +3,7 @@ import Navbar from '../UI/Navrbar'
 
 
 const AboutUs = () => {
-    // return (
+    return (
     //     <div>
     //         <Navbar />
     //         <div className="">
@@ -73,7 +73,7 @@ const AboutUs = () => {
     //         </div>
 
     //     </div>
-    // )
+     )
 }
 
 export default AboutUs
