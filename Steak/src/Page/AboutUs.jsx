@@ -19,8 +19,8 @@ const AboutUs = () => {
                  <h1 className='ml-[57.5rem] absolute mt-[33rem] font-bold'>
                  Serving best steaks and BBQs since 2023
                 </h1>
-                 {/* <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
-                 src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" /> */}
+                 <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
+                 src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" />
              </div>
 
          {/* <div> */}
