@@ -7,10 +7,10 @@ const AboutUs = () => {
         <div>
             
                      <Navbar />
-             {/* <div className="">
+              <div className="">
 
              <div>
-                 <h1 className='absolute font-bold text-5xl ml-[61rem] mt-[8rem]'>About Us</h1>
+                 {/* <h1 className='absolute font-bold text-5xl ml-[61rem] mt-[8rem]'>About Us</h1>
                  <p className='absolute text-1xl text-center ml-[47rem] mt-60'>
                  As a steak cooks longer, it becomes hotter, which causes the liquids to
                          cook out <br /> and the muscle fibers to harden up. The outcome is a well-done steak
@@ -20,8 +20,8 @@ const AboutUs = () => {
                  Serving best steaks and BBQs since 2023
                 </h1>
                  <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
-                 src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" />
-             </div> */}
+                 src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" /> */}
+             </div>
 
          {/* <div> */}
                  <img
