@@ -16,10 +16,10 @@ const AboutUs = () => {
                          cook out <br /> and the muscle fibers to harden up. The outcome is a well-done steak
                          with a uniform gray <br /> inside that is chewy, dry, gritty, and flavorless.
                  </p>
-                 {/* <h1 className='ml-[57.5rem] absolute mt-[33rem] font-bold'>
+                 <h1 className='ml-[57.5rem] absolute mt-[33rem] font-bold'>
                  Serving best steaks and BBQs since 2023
                 </h1>
-                 <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
+                 {/* <img className='absolute rounded-full w-40 ml-[62.3rem] mt-[23rem]'
                  src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" /> */}
              </div>
 
