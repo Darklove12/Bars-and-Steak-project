@@ -23,15 +23,15 @@ const AboutUs = () => {
                  src="https://img.freepik.com/premium-vector/sun-logo_535345-3256.jpg" alt="" />
              </div>
 
-         {/* <div> */}
-                 <img
-    //                 src="https://images.unsplash.com/photo-1474898856510-884a2c0be546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
-    //                 alt=""
-    //                 className="w-[49.9%] h-[50rem] mb-[1rem] shadow-md"
-    //             />
-    //             </div>
+         <div>
+                 {/* <img
+                     src="https://images.unsplash.com/photo-1474898856510-884a2c0be546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+                     alt=""
+                 className="w-[49.9%] h-[50rem] mb-[1rem] shadow-md"
+             /> */}
+                </div>
 
-    //             <div>
+                {/* <div>
     //                <ul className='flex float-right gap-[4rem] mr-[31rem] mt-[-10rem] w-20 rounded-full'>
     //                 <li className='name'>
     //                     <img className='  rounded-full'
